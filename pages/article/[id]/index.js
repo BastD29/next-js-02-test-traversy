@@ -1,5 +1,4 @@
 import Link from "next/link";
-// import { useRouter } from "next/router";
 import { server } from "../../../config";
 
 const article = ({article}) => {
